@@ -1,0 +1,23 @@
+<h2> Hi, I'm Giraldi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="230">
+<p>
+  <em>Information Technology Support Analyst II at 
+    <a href="http://www.b3.com.br/pt_br/">B3</a>
+    <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="30">
+    </br>
+    Bachelor in Information Systems at 
+    <a href="http://www.each.usp.br/">EACH - USP</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_EACH-USP.svg" width="30"> 
+  </em>
+</p>
+
+[![Twitter: Giraldiinho](https://img.shields.io/twitter/follow/Giraldiinho?style=social)](https://twitter.com/Giraldiinho)
+[![Linkedin: leonardo-giraldi](https://img.shields.io/badge/-leonardogiraldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-giraldi/)](https://www.linkedin.com/in/leonardo-giraldi/)
+[![GitHub Leonardo Giraldi](https://img.shields.io/github/followers/leogiraldimg?label=follow&style=social)](https://github.com/leogiraldimg)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&layout=compact&theme=tokyonight)](https://github.com/leogiraldimg)
+![Giraldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogiraldimg&show_icons=true&theme=tokyonight)
+
+---
