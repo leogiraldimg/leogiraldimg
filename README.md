@@ -3,7 +3,7 @@
 <p>
   <em>Information Technology Support Analyst II at 
     <a href="http://www.b3.com.br/pt_br/">B3</a>
-    <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="30">
+    <img src="https://investidorsardinha.r7.com/wp-content/uploads/2020/04/b3.png" width="30">
     </br>
     Bachelor in Information Systems at 
     <a href="http://www.each.usp.br/">EACH - USP</a>
