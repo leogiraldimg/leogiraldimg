@@ -31,6 +31,8 @@
 <img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
 
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&layout=compact&theme=tokyonight)](https://github.com/leogiraldimg)
 ![Giraldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogiraldimg&show_icons=true&theme=tokyonight)
 
