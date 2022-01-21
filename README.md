@@ -21,4 +21,5 @@
 <img src="https://img.icons8.com/color/25/000000/ubuntu--v1.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/docker.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/mysql.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
