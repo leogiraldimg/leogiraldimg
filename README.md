@@ -1,7 +1,7 @@
 <h2> Hi, I'm Giraldi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="230">
 <p>
-  <em>Information Technology Support Analyst II at 
+  <em>Technology Analyst II at 
     <a href="http://www.b3.com.br/pt_br/">B3</a>
     <img src="https://investidorsardinha.r7.com/wp-content/uploads/2020/04/b3.png" width="30">
     </br>
@@ -32,7 +32,7 @@
   <img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
   <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
 </p>
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&layout=compact&theme=tokyonight)](https://github.com/leogiraldimg)
 
 ![Giraldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogiraldimg&show_icons=true&theme=tokyonight)
