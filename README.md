@@ -1,5 +1,12 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! I'm Giraldi, I'm a Brazilian fullstack developer.
 
+I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
+
+### about me
+
+- 🇧🇷 from São Paulo, Brazil
+- 
+
 [![Twitter: Giraldiinho](https://img.shields.io/twitter/follow/Giraldiinho?style=social)](https://twitter.com/Giraldiinho)
 [![Linkedin: leonardo-giraldi](https://img.shields.io/badge/-leonardogiraldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-giraldi/)](https://www.linkedin.com/in/leonardo-giraldi/)
 [![GitHub Leonardo Giraldi](https://img.shields.io/github/followers/leogiraldimg?label=follow&style=social)](https://github.com/leogiraldimg)
@@ -19,6 +26,7 @@
 <img src="https://img.icons8.com/color/25/000000/sass-avatar.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/ubuntu--v1.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/docker.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/amazon-web-services.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/mysql.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
