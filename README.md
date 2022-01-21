@@ -35,4 +35,5 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 [![GitHub Leonardo Giraldi](https://img.shields.io/github/followers/leogiraldimg?label=follow&style=social)](https://github.com/leogiraldimg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&layout=compact&theme=tokyonight)](https://github.com/leogiraldimg)
+<br>
 ![Giraldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogiraldimg&show_icons=true&theme=tokyonight)
