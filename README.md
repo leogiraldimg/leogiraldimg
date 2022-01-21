@@ -17,6 +17,20 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
+### languages and tools I love to work on
+
+<img src="https://img.icons8.com/color/25/000000/javascript.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/react-native.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/nodejs.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/python.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/vue-js.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/ansible.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/sass-avatar.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/ubuntu--v1.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/docker.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&layout=compact&theme=tokyonight)](https://github.com/leogiraldimg)
 ![Giraldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogiraldimg&show_icons=true&theme=tokyonight)
 
