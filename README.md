@@ -30,9 +30,15 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 
 ### get in touch
 
+- ✉️ leogiraldimg@gmail.com
+
+### find my socials
+
 [![Twitter: Giraldiinho](https://img.shields.io/twitter/follow/Giraldiinho?style=social)](https://twitter.com/Giraldiinho)
 [![Linkedin: leonardo-giraldi](https://img.shields.io/badge/-leonardogiraldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-giraldi/)](https://www.linkedin.com/in/leonardo-giraldi/)
 [![GitHub Leonardo Giraldi](https://img.shields.io/github/followers/leogiraldimg?label=follow&style=social)](https://github.com/leogiraldimg)
+
+### github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&layout=compact&theme=tokyonight)](https://github.com/leogiraldimg)
 <br>
