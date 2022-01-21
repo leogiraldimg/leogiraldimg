@@ -10,18 +10,15 @@
 
 ### languages and tools I love to work on
 
-<p>
-  <img src="https://img.icons8.com/color/25/000000/javascript.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/react-native.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/nodejs.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/python.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/vue-js.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/ansible.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/sass-avatar.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/ubuntu--v1.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/docker.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
-  <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
-</p>
 
----
+<img src="https://img.icons8.com/color/25/000000/javascript.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/react-native.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/nodejs.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/python.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/vue-js.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/ansible.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/sass-avatar.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/ubuntu--v1.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/docker.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
