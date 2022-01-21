@@ -26,6 +26,8 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 <img src="https://img.icons8.com/color/25/000000/mysql.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
 
+<br>
+
 ### get in touch
 
 [![Twitter: Giraldiinho](https://img.shields.io/twitter/follow/Giraldiinho?style=social)](https://twitter.com/Giraldiinho)
