@@ -1,5 +1,4 @@
 <h2> Hi, I'm Giraldi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="230">
 <p>
   <em>Technology Analyst II at 
     <a href="http://www.b3.com.br/pt_br/">B3</a>
