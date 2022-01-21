@@ -1,4 +1,4 @@
-<h2> Hi, I'm Giraldi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### Hi, I'm Giraldi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <p>
   <em>Technology Analyst II at 
     <a href="http://www.b3.com.br/pt_br/">B3</a>
