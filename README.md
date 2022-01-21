@@ -5,7 +5,7 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 ### about me
 
 - 🇧🇷 from São Paulo, Brazil
-- 
+- 📈 I'm currently working for one of the main financial market infrastructure companies in the world, [B3](https://www.b3.com.br/pt_br/)
 
 [![Twitter: Giraldiinho](https://img.shields.io/twitter/follow/Giraldiinho?style=social)](https://twitter.com/Giraldiinho)
 [![Linkedin: leonardo-giraldi](https://img.shields.io/badge/-leonardogiraldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-giraldi/)](https://www.linkedin.com/in/leonardo-giraldi/)
