@@ -1,4 +1,4 @@
-### Hi, I'm Giraldi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! I'm Giraldi, I'm a Brazilian fullstack developer.
 
 [![Twitter: Giraldiinho](https://img.shields.io/twitter/follow/Giraldiinho?style=social)](https://twitter.com/Giraldiinho)
 [![Linkedin: leonardo-giraldi](https://img.shields.io/badge/-leonardogiraldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-giraldi/)](https://www.linkedin.com/in/leonardo-giraldi/)
@@ -9,7 +9,6 @@
 ![Giraldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogiraldimg&show_icons=true&theme=tokyonight)
 
 ### languages and tools I love to work on
-
 
 <img src="https://img.icons8.com/color/25/000000/javascript.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/react-native.png" align="left" />
