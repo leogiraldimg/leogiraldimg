@@ -19,7 +19,7 @@
 
 ### languages and tools I love to work on
 
-<div class="row">
+<p>
   <img src="https://img.icons8.com/color/25/000000/javascript.png" align="left" />
   <img src="https://img.icons8.com/color/25/000000/react-native.png" align="left" />
   <img src="https://img.icons8.com/color/25/000000/nodejs.png" align="left" />
@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/25/000000/docker.png" align="left" />
   <img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
   <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
-</div>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&layout=compact&theme=tokyonight)](https://github.com/leogiraldimg)
 ![Giraldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogiraldimg&show_icons=true&theme=tokyonight)
