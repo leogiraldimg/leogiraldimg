@@ -26,8 +26,8 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 <img src="https://img.icons8.com/color/25/000000/mysql.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
 <img src="https://img.icons8.com/fluency/25/000000/pop-os-logo.png" align="left"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/color/25/000000/figma--v1.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" align="left"/>
+<img src="https://img.icons8.com/color/25/000000/figma--v1.png" align="left"/>
 
 <br>
 
