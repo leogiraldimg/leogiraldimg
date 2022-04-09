@@ -44,6 +44,9 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 <a href="https://letterboxd.com/leogiraldimg/">
   <img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-neg-rgb.svg" width="20" />
 </a>
+<a href="https://www.skoob.com.br/usuario/8828560">
+  <img src="https://4.bp.blogspot.com/-3z6rqetKD_w/Wn-Vf98bFfI/AAAAAAAA9Ec/Cl05s1p9MFooF1IgQmyWCzImnn5AJqtUQCLcBGAs/s1600/Rede%2BSocial_Skoob.fw.png" width="20" />
+</a>
 
 ### github stats
 
