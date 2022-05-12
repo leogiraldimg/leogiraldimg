@@ -13,6 +13,7 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 
 <img src="https://img.icons8.com/color/25/000000/javascript.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/react-native.png" align="left" />
+<img src="https://img.icons8.com/color/25/000000/typescript.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/nodejs.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/python.png" align="left" />
 <img src="https://img.icons8.com/color/25/000000/vue-js.png" align="left" />
