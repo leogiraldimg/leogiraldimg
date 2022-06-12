@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! I'm Giraldi, I'm a Brazilian fullstack developer.
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi! I'm Giraldi, I'm a Brazilian fullstack developer.
 
 I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 
