@@ -11,27 +11,28 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 
 ### languages and tools I love to work on
 
-<img src="https://img.icons8.com/color/25/000000/javascript.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/react-native.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/typescript.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/nodejs.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/python.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/vue-js.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/ansible.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/sass-avatar.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/ubuntu--v1.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/docker.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/amazon-web-services.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/google-cloud-platform.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/mongodb.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/mysql.png" align="left" />
-<img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" align="left" />
-<img src="https://img.icons8.com/fluency/25/000000/pop-os-logo.png" align="left"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" align="left"/>
-<img src="https://img.icons8.com/color/25/000000/figma--v1.png" align="left"/>
-<img src="https://img.icons8.com/color/25/000000/github.png" align="left" />
-
-<br>
+<p float="left">
+  <img src="https://img.icons8.com/color/25/000000/javascript.png" />
+  <img src="https://img.icons8.com/color/25/000000/react-native.png" />
+  <img src="https://img.icons8.com/color/25/000000/typescript.png" />
+  <img src="https://img.icons8.com/color/25/000000/redux.png" />
+  <img src="https://img.icons8.com/color/25/000000/nodejs.png" />
+  <img src="https://img.icons8.com/color/25/000000/python.png" />
+  <img src="https://img.icons8.com/color/25/000000/vue-js.png" />
+  <img src="https://img.icons8.com/color/25/000000/ansible.png" />
+  <img src="https://img.icons8.com/color/25/000000/sass-avatar.png" />
+  <img src="https://img.icons8.com/color/25/000000/ubuntu--v1.png" />
+  <img src="https://img.icons8.com/color/25/000000/docker.png" />
+  <img src="https://img.icons8.com/color/25/000000/amazon-web-services.png" />
+  <img src="https://img.icons8.com/color/25/000000/google-cloud-platform.png" />
+  <img src="https://img.icons8.com/color/25/000000/mongodb.png" />
+  <img src="https://img.icons8.com/color/25/000000/mysql.png" />
+  <img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png" />
+  <img src="https://img.icons8.com/fluency/25/000000/pop-os-logo.png" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" />
+  <img src="https://img.icons8.com/color/25/000000/figma--v1.png" />
+  <img src="https://img.icons8.com/color/25/000000/github.png" />
+</p>
 
 ### get in touch
 
