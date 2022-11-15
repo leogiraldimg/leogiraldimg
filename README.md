@@ -56,4 +56,4 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogiraldimg&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogiraldimg&theme=tokyonight&hide=Ruby)](https://github.com/anuraghazra/github-readme-stats)
