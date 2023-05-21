@@ -6,19 +6,20 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 
 - 🇧🇷 from São Paulo, Brazil
 - 📈 I'm currently working for one of the main financial market infrastructure companies in the world, [B3](https://www.b3.com.br/pt_br/)
-- 📚 I'm currently reinforcing my knowledge about NodeJS, TypeScript and Microservices Architecture
+- 📚 I'm currently learning another development stack, focused on microservices: Spring
 - 🎓 bachelor in Information Systems at [EACH - USP](http://www.each.usp.br/)
 
 ### languages and tools I love to work on
 
 <p float="left">
-  <img src="https://img.icons8.com/color/25/000000/javascript.png" />
-  <img src="https://img.icons8.com/color/25/000000/react-native.png" />
   <img src="https://img.icons8.com/color/25/000000/typescript.png" />
-  <img src="https://img.icons8.com/color/25/000000/redux.png" />
+  <img src="https://img.icons8.com/color/25/000000/javascript.png" />
   <img src="https://img.icons8.com/color/25/000000/nodejs.png" />
+  <img src="https://img.icons8.com/color/25/000000/react-native.png" />
+  <img src="https://img.icons8.com/color/25/000000/redux.png" />
   <img src="https://img.icons8.com/color/25/000000/python.png" />
-  <img src="https://img.icons8.com/color/25/000000/vue-js.png" />
+  <img src="https://img.icons8.com/?size=512&id=GPfHz0SM85FX&format=png" width="25" />
+  <img src="https://img.icons8.com/?size=512&id=90519&format=png" width="25" />
   <img src="https://img.icons8.com/color/25/000000/ansible.png" />
   <img src="https://img.icons8.com/color/25/000000/sass-avatar.png" />
   <img src="https://img.icons8.com/color/25/000000/ubuntu--v1.png" />
