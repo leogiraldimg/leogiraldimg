@@ -6,7 +6,7 @@ I work as a Fullstack Developer since 2018. I live in São Paulo, Brasil.
 
 - 🇧🇷 from São Paulo, Brazil
 - 📈 I'm currently working for one of the main financial market infrastructure companies in the world, [B3](https://www.b3.com.br/pt_br/)
-- 📚 I'm currently learning another development stack, focused on microservices: Spring
+- 📚 I'm currently specializing in data science
 - 🎓 bachelor in Information Systems at [EACH - USP](http://www.each.usp.br/)
 
 ### languages and tools I love to work on
